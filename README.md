@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ..
   - デザイン
   - フロントエンド領域
+
+## 記事
+- [Github再入門](https://gist.github.com/darmadevZone/7aa3f4d13af0360f91beb9d1a5c43448)
+- [Zenn](https://zenn.dev/dandan)
